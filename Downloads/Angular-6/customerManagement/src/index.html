@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>CustomerManagementApp</title>
+  <base href="/">
+</head>
+<body>
+  <div class="navbar navbar-inverse bg-inverse">
+    <h1>Customer Manager</h1>
+    <div class="navbar">
+      <div class="navbar navbar-brand">
+        <div class="container">
+          <!--<a class="brand " href="#/">
+          <img src="Content/Images/people.png" alt="logo"> Customer Manager
+        </a>-->
+          <ul class="nav nav-pills">
+            <li (class)="{'active':getClass('/customers')}"><a href="/customer">Customers</a></li>
+            <li (class)="{'active':getClass('/orders')}"><a href="/order">Orders</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <app></app>
+</body>
+</html>

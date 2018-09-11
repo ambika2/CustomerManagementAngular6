@@ -1,0 +1,38 @@
+
+<div class="customerOrders view">
+    <div class="container">
+      
+        <div>
+            <div class="row">
+                <div class="span12">
+                  <div class="indent">
+
+                    <h3>Orders for</h3> <b>{{ customer.firstName + ' ' + customer.lastName }}</b>
+                      <img class="float-right" height="50" src="assets/logo2.png" />
+                    <br />
+                    {{customer.address}}
+                    <br />
+                    {{customer.city}}
+                    <br /><br />
+                    <table class="table table-hover table-striped table-condensed table-bordered ordersTable p-a-1">
+                      <tr *ngFor="let order of customer.orders">
+                        <td>
+                          {{ order.product }}
+                        </td>
+                        <td>
+                          {{ order.quantity }}
+                        </td>
+                        <td>
+                          {{ order.price | currency }}
+                        </td>
+                        <td>
+                          {{ order.orderTotal | currency }}
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
