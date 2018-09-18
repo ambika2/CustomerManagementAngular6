@@ -1,0 +1,10 @@
+C:\Users\ambikg\Downloads\Assignment\Assignment\cs_win_Calculator\bin\Debug\cs_win_Calculator.exe.config
+C:\Users\ambikg\Downloads\Assignment\Assignment\cs_win_Calculator\bin\Debug\cs_win_Calculator.exe
+C:\Users\ambikg\Downloads\Assignment\Assignment\cs_win_Calculator\bin\Debug\cs_win_Calculator.pdb
+C:\Users\ambikg\Downloads\Assignment\Assignment\cs_win_Calculator\obj\Debug\cs_win_Calculator.csprojAssemblyReference.cache
+C:\Users\ambikg\Downloads\Assignment\Assignment\cs_win_Calculator\obj\Debug\cs_win_Calculator.Form1.resources
+C:\Users\ambikg\Downloads\Assignment\Assignment\cs_win_Calculator\obj\Debug\cs_win_Calculator.Properties.Resources.resources
+C:\Users\ambikg\Downloads\Assignment\Assignment\cs_win_Calculator\obj\Debug\cs_win_Calculator.csproj.GenerateResource.cache
+C:\Users\ambikg\Downloads\Assignment\Assignment\cs_win_Calculator\obj\Debug\cs_win_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ambikg\Downloads\Assignment\Assignment\cs_win_Calculator\obj\Debug\cs_win_Calculator.exe
+C:\Users\ambikg\Downloads\Assignment\Assignment\cs_win_Calculator\obj\Debug\cs_win_Calculator.pdb
